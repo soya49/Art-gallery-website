@@ -1,0 +1,18 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f8f9fa;
+}
+
+h2 {
+    margin-bottom: 20px;
+}
+
+.card-img-top {
+    height: 250px;
+    object-fit: cover;
+}
+
+img.img-fluid {
+    max-height: 500px;
+    object-fit: contain;
+}
